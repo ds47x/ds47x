@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<h2>My Name is Neba</h2>
+## My Name is Neba
 
 <p>Welcome to my GitHub profile! I'm Neba, a passionate developer with a love for coding and problem-solving. I believe in the power of technology to create positive change and improve lives.</p>
 
