@@ -22,5 +22,5 @@
 <p><strong>Open-Source Contribution:</strong> I am an advocate for open-source software and have contributed to various projects. I enjoy collaborating with others and believe in the importance of giving back to the developer community.</p>
 
 
-<p>You can find more details about these projects and other contributions in my [portfolio](https://ds47x.github.io).</p>
+You can find more details about these projects and other contributions in my [portfolio](https://ds47x.github.io).
 
