@@ -1,13 +1,11 @@
 # Hi there 👋
 
-## My Name is Neba
-
 <p>Welcome to my GitHub profile! I'm Neba, a passionate developer with a love for coding and problem-solving. I believe in the power of technology to create positive change and improve lives.</p>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ds47x&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"> 
+<p align="left"><a href="https://github.com/anuraghazra/github-readme-stats"> 
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ds47x&show_icons=true&count_private=true&theme=tokyonight" />
 
 
